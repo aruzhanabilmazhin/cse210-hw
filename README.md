@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Hi, my name is Aruzhan. This course is looking hard for me.
+Hi, my name is Aruzhan.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
